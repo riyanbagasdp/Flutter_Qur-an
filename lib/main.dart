@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:holy_quran/screens/splash_screen.dart';
 
+//// Riyan Ganteng
 void main() {
   runApp(const MyApp());
 }
